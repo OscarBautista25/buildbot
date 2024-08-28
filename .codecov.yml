@@ -5,6 +5,7 @@ codecov:
     # 6 Github Actions DB builds
     # Note that currently Appveyor builds fail to upload
     #Cambio para llevar a remoto
+    #Cambio para visualizar en local
     after_n_builds: 8
     wait_for_ci: yes
 
