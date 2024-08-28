@@ -4,6 +4,7 @@ codecov:
     # 2 ci/coverage build from Buildbot
     # 6 Github Actions DB builds
     # Note that currently Appveyor builds fail to upload
+    #Cambio para llevar a remoto
     after_n_builds: 8
     wait_for_ci: yes
 
